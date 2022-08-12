@@ -6,7 +6,7 @@ LABEL maintainer="Óscar de Arriba <odarriba@gmail.com>"
 ##################
 
 # Versions to use
-ENV netatalk_version 3.1.12
+ENV netatalk_version 3.1.13
 
 WORKDIR /
 
